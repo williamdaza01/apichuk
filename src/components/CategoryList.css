@@ -1,0 +1,8 @@
+.categories_list {
+    display: flex;
+    gap: 5px;
+    list-style: none;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
